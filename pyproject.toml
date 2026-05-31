@@ -28,8 +28,8 @@ classifiers = [
 mcp-safecheck = "mcp_safecheck.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/your-name/mcp-safecheck"
-Issues = "https://github.com/your-name/mcp-safecheck/issues"
+Homepage = "https://github.com/qwpweee/mcp-safecheck"
+Issues = "https://github.com/qwpweee/mcp-safecheck/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/mcp_safecheck"]
